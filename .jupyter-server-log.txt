@@ -55,3 +55,22 @@ TermSocket.open: Opened 2
 Websocket closed
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 15:54:55.496 NotebookApp] EOF on FD 33; stopping reading
+[I 15:54:55.597 NotebookApp] Terminal 1 closed
+Websocket closed
+[I 15:54:56.596 NotebookApp] EOF on FD 34; stopping reading
+[I 15:54:56.696 NotebookApp] Terminal 2 closed
+Websocket closed
+[I 15:54:57.576 NotebookApp] Kernel shutdown: 1ae349c1-704a-4867-8575-b36e75bcb8f6
+[W 15:54:58.318 NotebookApp] 404 DELETE /user/townsend861-pyt-achinelearning1-no9z7daf/api/sessions/7cfd550f-3df2-47f5-9cff-56c03ade4152 (128.146.189.120): Session not found: session_id='7cfd550f-3df2-47f5-9cff-56c03ade4152'
+[W 15:54:58.318 NotebookApp] Session not found: session_id='7cfd550f-3df2-47f5-9cff-56c03ade4152'
+[W 15:54:58.318 NotebookApp] 404 DELETE /user/townsend861-pyt-achinelearning1-no9z7daf/api/sessions/7cfd550f-3df2-47f5-9cff-56c03ade4152 (128.146.189.120) 1.340000ms referer=https://hub.gke2.mybinder.org/user/townsend861-pyt-achinelearning1-no9z7daf/notebooks/Python_MachineLearning.ipynb
+[W 15:54:58.319 NotebookApp] 404 DELETE /user/townsend861-pyt-achinelearning1-no9z7daf/api/sessions/7cfd550f-3df2-47f5-9cff-56c03ade4152 (128.146.189.120): Session not found: session_id='7cfd550f-3df2-47f5-9cff-56c03ade4152'
+[W 15:54:58.320 NotebookApp] Session not found: session_id='7cfd550f-3df2-47f5-9cff-56c03ade4152'
+[W 15:54:58.320 NotebookApp] 404 DELETE /user/townsend861-pyt-achinelearning1-no9z7daf/api/sessions/7cfd550f-3df2-47f5-9cff-56c03ade4152 (128.146.189.120) 1.220000ms referer=https://hub.gke2.mybinder.org/user/townsend861-pyt-achinelearning1-no9z7daf/notebooks/Untitled.ipynb
+[I 15:54:59.219 NotebookApp] Saving file at /Python_MachineLearning.ipynb
+[W 15:55:02.504 NotebookApp] Notebook Python_MachineLearning.ipynb is not trusted
+[I 15:55:03.724 NotebookApp] Kernel started: e792f04c-7d3a-4a98-b939-74cfb3523b74, name: python3
+[I 15:55:23.583 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
